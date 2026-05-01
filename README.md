@@ -2,7 +2,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahadbaloch&label=Profile%20views&color=0e75b6&style=flat" alt="shahadbaloch" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahadbaloch" alt="shahadbaloch" /></a> </p>
-background-color: lightblue;
 # 💫 About Me:
 🌱 I’m currently learning Python,HTML,C (programming languages)<br>📫 How to reach me shahadjan379@gmail.com, https://www.linkedin.com/in/shahad-jan-278107364/ <br>⚡ Fun fact: I am confident, extroverted, and can have a profesional conversation
 
