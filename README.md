@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Shahad Baloch</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahadjan379-create&label=Profile%20views&color=0e75b6&style=flat" alt="shahadjan379-create" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahadjan379-create" alt="shahadjan379-create" /></a> </p>
 # 💫 About Me:
 🌱 I’m currently learning Python,HTML,C (programming languages)<br>📫 How to reach me shahadjan379@gmail.com, https://www.linkedin.com/in/shahad-jan-278107364/ <br>⚡ Fun fact: I am confident, extroverted, and can have a profesional conversation
 
